@@ -3,8 +3,9 @@
 Program ini melakukan OCR (Optical Character Recognition) untuk membaca plat nomor kendaraan secara otomatis dari gambar menggunakan Visual Language Model (VLM) seperti Qwen-VL atau LLaVA, dijalankan secara lokal melalui LM Studio, dan diakses menggunakan Python di Jupyter Lab.
 
 ## Persiapan Awal
-1. Unduh LM Studio di: https://lmstudio.ai
-2. Install dan jalankan LM Studio
+1. Unduh dataset https://www.kaggle.com/datasets/juanthomaswijaya/indonesian-license-plate-dataset
+2. Unduh LM Studio di: https://lmstudio.ai
+3. Install dan jalankan LM Studio
 
 ## Jalankan Model VLM
 1. Buka LM Studio
